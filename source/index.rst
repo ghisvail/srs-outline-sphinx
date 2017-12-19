@@ -7,9 +7,11 @@ Welcome to project's documentation!
 ===================================
 
 .. toctree::
+   :glob:
    :maxdepth: 2
    :caption: Contents:
 
+   srs/*
 
 
 Indices and tables
